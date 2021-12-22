@@ -1,0 +1,4 @@
+pyperclip
+PyQt5
+
+(use "pip install *name*")
