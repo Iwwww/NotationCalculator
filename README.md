@@ -8,6 +8,7 @@ Available mathematical operators :
 - addition
 - difference
 - multiplication
+
 From 2 to 36 notation system
 ## Instalation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
