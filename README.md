@@ -3,6 +3,10 @@
 # NotationCalculator
 Python GUI app for converting number to different notation systems and simple math operations with it.
 Works at Qt.
+Available mathematical operators :
+- addition
+- difference
+- multiplication
 ## Instalation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
 ``` bash
